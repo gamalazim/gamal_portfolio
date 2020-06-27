@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Gamal Abdel-Azim</title>
+    <link>https://github.com/gamalazim/gamal_portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Gamal Abdel-Azim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Apr 2020 11:13:32 -0400</lastBuildDate>
+    
+	<atom:link href="https://github.com/gamalazim/gamal_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project III: Sensory Data to Forecast Health Conditions</title>
+      <link>https://github.com/gamalazim/gamal_portfolio/post/project-3/</link>
+      <pubDate>Sat, 11 Apr 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://github.com/gamalazim/gamal_portfolio/post/project-3/</guid>
+      <description>In this project, I implemented machine learning to detect health conditions of dairy cows based on sensory data. Physical and feeding activities of cattle were recorded continuously using sensors. Changes in activity patterns were utilized in convolutional neural networks to predict if animals were sick. Used TensorFlow to train and validate models. Data from various sources were merged together to draw a full picture of the daily condition of each animal.</description>
+    </item>
+    
+    <item>
+      <title>Project II: Demand Forecasting</title>
+      <link>https://github.com/gamalazim/gamal_portfolio/post/project-2/</link>
+      <pubDate>Fri, 10 Apr 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://github.com/gamalazim/gamal_portfolio/post/project-2/</guid>
+      <description>Summary The objective of forecasting was to optimize production capacity and design a pricing strategy. In this project, approaches to predict aggregate demand per product per period were developed. A demand period spanned 3 - 4 months and product attributes were updated from a period to the next. Machine learning approaches applied included linear regression, decision trees, and random forest regressors form scikit-learn. RMSE was the metric used to compare models with ensemble approaches showing better results than linear regression.</description>
+    </item>
+    
+    <item>
+      <title>Project I: The Database Component</title>
+      <link>https://github.com/gamalazim/gamal_portfolio/post/project-1/</link>
+      <pubDate>Thu, 09 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://github.com/gamalazim/gamal_portfolio/post/project-1/</guid>
+      <description>Throughout my data science career, data came from multiple sources and in various formats. I don&amp;rsquo;t remember a project where all input data were received in a single file or extracted from a contained data base. Data also needed to be updated periodically and had to go through cycles of: wc -l; sort -u; cut -f -d; truncate -s; paste -d; awk; cat newFile &amp;gt;&amp;gt; oldFile; etc., obviously with a lot of piping in between.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://github.com/gamalazim/gamal_portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/gamalazim/gamal_portfolio/contact/</guid>
+      <description>If you have any questions or comments in regards to my data science projects, please drop me a note at datsci.projects@gmail.com. I&amp;rsquo;d love to hear back from you.
+Thanks for visiting!</description>
+    </item>
+    
+  </channel>
+</rss>
