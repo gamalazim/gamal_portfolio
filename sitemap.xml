@@ -4,7 +4,14 @@
   
   <url>
     <loc>https://gamalazim.github.io/gamal_portfolio/</loc>
-    <lastmod>2020-04-11T11:13:32-04:00</lastmod>
+    <lastmod>2020-04-12T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://gamalazim.github.io/gamal_portfolio/post/project-4/</loc>
+    <lastmod>2020-04-12T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
