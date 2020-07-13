@@ -17,25 +17,25 @@
       <pubDate>Sun, 12 Apr 2020 11:00:59 -0400</pubDate>
       
       <guid>https://gamalazim.github.io/gamal_portfolio/post/project-4/</guid>
-      <description>Summary The objective here was to utilize daily sensory data to detect cows that are going through ovulation (in-heat). Automating the process of heat detection is important, particularly for large dairy farms. Alternative conventional methods for heat detection can be labor-intensive and more costly than the machine learning approach presented in this project. Sensors were put on animals for the purpose of recording the levels of physical and rumination activities. Only daily averages of these two types of activities were available for the purpose of heat detection.</description>
+      <description>Summary The objective here was to utilize daily sensory data to detect cows that are going through ovulation (in-heat). Automating the process of heat detection is important, particularly for large dairy farms. Alternative conventional methods for heat detection can be labor-intensive and more costly than the machine learning approach presented in this project. Sensors were put on animals for the purpose of recording the levels of physical and rumination activities. Only daily averages of these two types of activities were available for heat detection.</description>
     </item>
     
     <item>
-      <title>Project III: Sensory Data to Forecast Health Conditions</title>
+      <title>Project III: Ensemble Models for Demand Forecasting</title>
       <link>https://gamalazim.github.io/gamal_portfolio/post/project-3/</link>
-      <pubDate>Sat, 11 Apr 2020 11:13:32 -0400</pubDate>
+      <pubDate>Sat, 11 Apr 2020 11:00:59 -0400</pubDate>
       
       <guid>https://gamalazim.github.io/gamal_portfolio/post/project-3/</guid>
-      <description>In this project, I implemented machine learning to detect health conditions of dairy cows based on sensory data. Physical and feeding activities of cattle were recorded continuously using sensors. Changes in activity patterns were utilized in convolutional neural networks to predict if animals were sick. Used TensorFlow to train and validate models. Data from various sources were merged together to draw a full picture of the daily condition of each animal.</description>
+      <description>Summary The objective of forecasting was to optimize production capacity and develop a pricing strategy. In this project, approaches to predict aggregate demand per product per period were developed. A demand period spanned 3 - 4 months and product attributes were updated from a period to the next. Machine learning approaches applied included linear regression, decision trees, and random forest regressors from scikit-learn. RMSE was the metric used to compare models with ensemble approaches showing lower deviations from target values than linear regression.</description>
     </item>
     
     <item>
-      <title>Project II: Demand Forecasting</title>
+      <title>Project II: Sensory Data to Forecast Health Conditions</title>
       <link>https://gamalazim.github.io/gamal_portfolio/post/project-2/</link>
-      <pubDate>Fri, 10 Apr 2020 11:00:59 -0400</pubDate>
+      <pubDate>Fri, 10 Apr 2020 11:13:32 -0400</pubDate>
       
       <guid>https://gamalazim.github.io/gamal_portfolio/post/project-2/</guid>
-      <description>Summary The objective of forecasting was to optimize production capacity and design a pricing strategy. In this project, approaches to predict aggregate demand per product per period were developed. A demand period spanned 3 - 4 months and product attributes were updated from a period to the next. Machine learning approaches applied included linear regression, decision trees, and random forest regressors form scikit-learn. RMSE was the metric used to compare models with ensemble approaches showing better results than linear regression.</description>
+      <description>In this project, I implemented machine learning to identify health conditions of dairy cows based on sensory data. Physical and feeding activities of cattle were recorded continuously using sensors. Changes in activity patterns as well as in milk analyses were utilized in convolutional neural networks to predict if animals were sick. Used TensorFlow to train and validate models. Data from various sources were merged together to draw a full picture of the daily condition of each animal.</description>
     </item>
     
     <item>
